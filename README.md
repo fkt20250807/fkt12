@@ -10,4 +10,4 @@
 
 平台每日更新优质影视内容，专注于提供高清无码及中文字幕资源。分类明确，涵盖剧情、制服、角色扮演等多种题材，满足不同观众需求。无需注册，无广告打扰，确保流畅纯净的观影体验。丰富的热播榜单和用户推荐，帮助快速发现优质作品，提升观影乐趣。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250807/fkt12 ）</span>
